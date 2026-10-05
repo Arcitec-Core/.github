@@ -73,25 +73,25 @@ Behind Arcitec Core is a dedicated group of engineers, developers, and innovator
 <table>
 <tr>
 <td align="center" width="25%">
-  <img src="https://ui-avatars.com/api/?name=Yasith+Perera&background=0D8ABC&color=fff&size=100" width="100px;" style="border-radius:50%;" alt="Yasith Perera"/><br />
+  <img src="./assets/yasith.jpg" width="100px;" alt="Yasith Perera"/><br />
   <b>Yasith Perera</b><br />
   <i>Software Engineer</i><br />
   <a href="https://www.linkedin.com/in/yasithmp/">LinkedIn</a> • <a href="https://github.com/YasithMP">GitHub</a>
 </td>
 <td align="center" width="25%">
-  <img src="https://ui-avatars.com/api/?name=Tharin+Perera&background=1a237e&color=fff&size=100" width="100px;" style="border-radius:50%;" alt="Tharin Perera"/><br />
+  <img src="./assets/tharin.jpg" width="100px;" alt="Tharin Perera"/><br />
   <b>Tharin Perera</b><br />
   <i>Software Engineer</i><br />
   <a href="https://www.linkedin.com/in/tharin-perera-765543301/">LinkedIn</a> • <a href="https://github.com/TharinPerera04">GitHub</a>
 </td>
 <td align="center" width="25%">
-  <img src="https://ui-avatars.com/api/?name=Samiru+Hemaka&background=009688&color=fff&size=100" width="100px;" style="border-radius:50%;" alt="Samiru Hemaka"/><br />
+  <img src="./assets/samiru.jpg" width="100px;" alt="Samiru Hemaka"/><br />
   <b>Samiru Hemaka</b><br />
   <i>Software Engineer</i><br />
   <a href="https://www.linkedin.com/in/samiruhemaka/">LinkedIn</a> • <a href="https://github.com/SamiruHemaka2004">GitHub</a>
 </td>
 <td align="center" width="25%">
-  <img src="https://ui-avatars.com/api/?name=Raneth+Mendis&background=F38020&color=fff&size=100" width="100px;" style="border-radius:50%;" alt="Raneth Mendis"/><br />
+  <img src="./assets/raneth.jpg" width="100px;" alt="Raneth Mendis"/><br />
   <b>Raneth Mendis</b><br />
   <i>Software Engineer</i><br />
   <a href="https://www.linkedin.com/in/raneth-mendis/">LinkedIn</a> • <a href="https://github.com/RanethM">GitHub</a>
